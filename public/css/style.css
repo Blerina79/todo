@@ -73,6 +73,7 @@ footer{
     border-radius: 3px;
     min-width: 60rem;
     min-height: 40rem;
+    box-shadow: var(--box-shadow);
 
 }
 
